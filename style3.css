@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+.img1{
+    width: 500px;
+    height: 360px;
+}
+.img5{
+    width: 480px;
+}
+.div1{
+    position: absolute;
+}
+.div2{
+    margin-left: 500px;
+    position: absolute;
+}
+.img2{
+    width:460px;
+    height: 360px;
+
+}
+.div3{
+    margin-left: 1000px;
+    margin-bottom: 100px;
+}
+.img3{
+    width: 500px;
+    height: 500px;
+}
+.img4{
+    width: 500px;
+    height: 500px;
+}
+.div4{
+    position: absolute;
+}
+.div5{
+
+    margin-left: 700px;
+
+}

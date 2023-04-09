@@ -1,0 +1,49 @@
+
+body{
+    background-color: aqua;
+}.firsth1{
+    margin-top: 0px;
+    position: absolute;
+    font-size: 35px;
+}
+.div1{
+    /* padding: 50px; */
+
+    margin-left: 980px;
+
+}
+a{
+    padding: 40px;
+    text-decoration: none;
+    /* font-size: 20x; */
+}
+a:hover{
+    color: red;
+}
+.img1{
+    margin-top: 50px;
+    width: 1500px;
+    height: 750px;
+}
+.div2{
+    background-color: honeydew;
+    /* position: absolute; */
+}
+.div21{
+    position: absolute;
+}
+.div22{
+    margin-left: 600px;
+    height: 500px;
+}
+.msd1{
+    width: 500px;
+    height: 500px;
+}
+
+.table1{
+    margin-top: 40px;
+}
+/* .div3{
+    background-color: hotpink;
+} */

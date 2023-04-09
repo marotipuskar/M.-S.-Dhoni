@@ -1,0 +1,33 @@
+body{
+    background-color:palegoldenrod;
+}
+.sushant1{
+    width: 400px;
+    height: 350px;
+}
+.div1{
+    position: absolute;
+}
+.div2{
+    margin-left: 500px;
+    position: absolute;
+}
+.div3{
+    margin-left: 1000px;
+}
+.div4{
+    margin-top: 20px;
+    position: absolute;
+}
+.div5{
+    margin-top: 20px;
+    margin-left: 500px;
+    position: absolute;
+}
+a:hover{
+    color: red;
+}
+.div6{
+    margin-top: 20px;
+    margin-left: 1000px;
+}
